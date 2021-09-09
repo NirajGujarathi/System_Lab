@@ -1,0 +1,4 @@
+Hello!  
+This file is being linked as softlink (shortcut - differnt i node) size less
+This file is being linked as hardlink (copy - same i node) size equal
+
